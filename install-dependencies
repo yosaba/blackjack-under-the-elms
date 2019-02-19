@@ -1,0 +1,5 @@
+elm install elm/time
+elm install mdgriffith/elm-ui
+elm install elm/random
+elm install elm-community/random-extra
+elm install andrewMacmurray/elm-delay

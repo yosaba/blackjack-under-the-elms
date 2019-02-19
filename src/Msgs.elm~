@@ -1,0 +1,14 @@
+module Msgs exposing (Msg(..))
+
+import Cards exposing ( Card )
+
+type Msg
+    = NewGame
+    | ResetGame
+    | PlayerDraw
+    | DealerDraw
+    | Stay
+    | Shuffle
+    | ShuffleDeck ( List Cards.Card )
+    | AssessState
+    | UpdateHistory
