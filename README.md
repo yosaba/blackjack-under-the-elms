@@ -44,5 +44,10 @@ Open a web browser and navigate to
 Click on "src" and then "Main.elm".  Play should be self-explanatory from there.
 
 
+## Source for the card images used in the project:
+PySolFCCardsets-2.0.tar.bz2
+https://sourceforge.net/projects/pysolfc/files/PySolFC-Cardsets/PySolFC-Cardsets-2.0/
 
+## Project on GitHub:
+    https://github.com/yosaba/blackjack-under-the-elms.git
 
